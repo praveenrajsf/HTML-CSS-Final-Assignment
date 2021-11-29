@@ -1,0 +1,49 @@
+#form1{
+    float: right;
+    padding: 20px;
+    margin: 10px;
+    width: 50%;
+    height: 75%;
+    background-color: white;
+}
+#submit.hover{
+    color: white;
+}
+#submit{
+    font-size: medium;
+    background-color:red;
+    text-align: center;
+}
+#submit1{
+    background-color: red;
+    color: white;
+    border: none;
+    height: 35px;
+}
+
+.listlast1{
+    float: right;
+    margin: 20px;
+    color: gray;
+    list-style-type: none;
+}
+
+/* #lastdiv{
+    margin: 100px;
+} */
+
+.lastdiv1{
+    margin: 100px;
+    margin-left: 100px;
+}
+#follow{
+    width: 10px;
+}
+#chat{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+.lastimage{
+    width: 25px;
+}
